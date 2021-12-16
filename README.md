@@ -1,13 +1,12 @@
-Aplicacion de chat basada en Socket.io.
+Live chat application.
 
-Tecnologías utilizadas
+Used technologies:
 
-Cliente:
+Client:
 - React
 - React-Router
-- Node
 
-Servidor:
-- Node
-- Express
+Server:
+- Node.js
+- Express.js
 - Socket.io
